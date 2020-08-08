@@ -1,0 +1,2 @@
+As the Stanford Parser is in Java and we work in Python, we have to use a server to execute the parser.
+Launch server.bat to start the server.

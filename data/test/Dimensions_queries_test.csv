@@ -1,0 +1,41 @@
+﻿Query;Table;Dimension;Value;Than
+Number of students studying partially in Belgium;Enrolment age;INTENSITY;PT;0
+Full time students in Germany in 2018;Enrolment age;INTENSITY;_T;0
+How many part-time students ?;Enrolment age;INTENSITY;PT;0
+Total number of students in Europe;Enrolment age;INTENSITY;_T;0
+Part of female students in France;Enrolment gender;SEX;F;0
+Countries with more male students than female students;Enrolment gender;SEX;M/F;1
+Number of male studying in England;Enrolment gender;SEX;M;0
+Graduate in the US in 2018;Enrolment gender;SEX;_T;0
+Law graduates in 2003;Enrolment field;EDUCATION_FIELD;F042;0
+Number of kids studying mathematics;Enrolment field;EDUCATION_FIELD;F054;0
+High school students number;Enrolment field;EDUCATION_FIELD;_T;0
+How many students are enrolled in Art major ?;Enrolment field;EDUCATION_FIELD;F021;0
+Number of students in a Master degree program;Educational attainment;ATTAINMENT_LEV;ISCED11A_7;0
+Countries with more doctorates;Educational attainment;ATTAINMENT_LEV;ISCED11A_8;0
+More Master than Doctoral in Germany ?;Educational attainment;ATTAINMENT_LEV;ISCED11A_7/ISCED11A_8;1
+Students in Italy since 2010;Educational attainment;ATTAINMENT_LEV;_T;0
+Countries with best data accessibility;Open Gov data;MEASURE;OUR_DAC;0
+Data availability in Asia;Open Gov data;MEASURE;OUR_DAV;0
+Who has more data availability than accessibility ?;Open Gov data;MEASURE;OUR_DAV/OUR_DAC;1
+Data policy in the world;Open Gov data;MEASURE;_T;0
+US government expenditures in defence this year;Gov expenditures;FUNCTION;GF02;0
+Health budget in European countries;Gov expenditures;FUNCTION;GF07;0
+Countries spending more in environment than in defence;Gov expenditures;FUNCTION;GF05/GF02;1
+Total expenditures of Canadian government;Gov expenditures;FUNCTION;_T;0
+Countries investing the most in education;Gov investments;FUNCTION;GF09;0
+What is the Finnish investement in housing;Gov investments;FUNCTION;GF06;0
+Who spends more in education than in health;Gov investments;FUNCTION;GF09/GF07;1
+Investments of the Japan government;Gov investments;FUNCTION;_T;0
+Total number of tourists coming in France;Inbound Tourism;VISITOR_TYPE;OVERNIGHT;0
+Tourism activity in the US;Inbound Tourism;VISITOR_TYPE;OVERNIGHT;0
+How many tourists from Canada to New Zealand in 2012 ?;Inbound Tourism;VISITOR_TYPE;OVERNIGHT;0
+Total number of persons coming in Europe for tourism;Inbound Tourism;VISITOR_TYPE;_T;0
+Tourism share of GDP in Russia since 2010;Tourism indicators;MEASURE;GDP_SH;0
+Tourism contribution to economy in India;Tourism indicators;MEASURE;GDP_SH;0
+Number of jobs created with tourism in Netherlands;Tourism indicators;MEASURE;EMP_SH;0
+Tourism impact on employment in Europe;Tourism indicators;MEASURE;EMP_SH;0
+Cultural jobs created with tourism;Employment Tourism;ACTIVITY;CULTURE;0
+Impact of tourism on sport in the US;Employment Tourism;ACTIVITY;SPORTS_REC;0
+Countries with more jobs in culture than in sport;Employment Tourism;ACTIVITY;CULTURE/SPORTS_REC;1
+Transport jobs thanks to tourism;Employment Tourism;ACTIVITY;TRANSPORT;0

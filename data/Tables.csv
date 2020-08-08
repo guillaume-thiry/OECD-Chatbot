@@ -1,0 +1,13 @@
+﻿Full Name;Short Name;Category;Code
+Domestic tourism;Domestic Tourism;IND;OECD.CFE/DOMESTIC@TOURISM_TRIPS/1.0
+Inbound tourism;Inbound Tourism;IND;OECD.CFE/INBOUND@TOURISM_TRIPS/1.0
+Employment in tourism;Employment Tourism;IND;OECD.CFE/EMP@TOURISM_KEY/1.0
+Key tourism indicators;Tourism indicators;IND;OECD.CFE/KEY_IND_PC@TOURISM_KEY/1.0
+Open government data;Open Gov data;GOV;OECD.GOV/DF_GOV_OG/2.0
+Public finance and economics;Public finance and economics;GOV;OECD.GOV/DF_GOV_1/1.1
+Structure of government expenditures by function and government type;Gov expenditures;GOV;OECD.GOV/DF_GOV_EXP_COFOG/1.1
+Structure of government investment by function;Gov investments;GOV;OECD.GOV/DF_GOV_INV/1.1
+Enrolment by field;Enrolment field;EDU;OECD.EDU/EDU_ENRLT@EDU_ENRL_FIELD/1.0
+Educational attainment, per country;Educational attainment;EDU;OECD.EDU/EDU_NEAC@EAG_ATTAINMENT_1/1.1
+Enrolment by gender, programme orientation and mode of study;Enrolment gender;EDU;OECD.EDU/EDU_ENRLT@EAG_ENRL_SHARE_CATEGORY/1.0
+Enrolment by age;Enrolment age;EDU;OECD.EDU/EDU_ENRLT@EDU_ENRL_AGE/1.0

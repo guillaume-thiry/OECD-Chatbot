@@ -1,0 +1,36 @@
+﻿Query;Comparison;Results
+Countries with more population in 2004 than Sweden;Agr_Area // [['Country', 'sup', {'AREA': [], 'TIME': 2004}, {}, {'AREA': 'Sweden'}]];1
+Who in 2010 has a higher GDP than Peru ?;Agr_Area // [['Country', 'sup', {'AREA': [], 'TIME': 2010}, {}, {'AREA': 'Peru'}]];1
+Nations with more population than female population population of Canada;Agr_Area // [['Country', 'sup', {'AREA': []}, {}, {'AREA': 'Canada'}]];1
+Bigger criminality in 2018 than in the United States of America;Agr_Area // [['Country', 'sup', {'AREA': [], 'TIME': 2018}, {}, {'AREA': 'United States of America'}]];1
+More agricultural surface than in Ireland;Agr_Area // [['Country', 'sup', {'AREA': []}, {}, {'AREA': 'Ireland'}]];1
+Less inhabitants than Iceland;Agr_Area // [['Country', 'inf', {'AREA': []}, {}, {'AREA': 'Iceland'}]];1
+What countries have, today, a bigger army than France in 1940;Agr_Area // [['Country', 'sup', {'AREA': []}, {'TIME': 2020}, {'AREA': 'France', 'TIME': 1940}]];1
+Where is there more inflation nowadays than Greece in 2011 ?;Agr_Area // [['Country', 'sup', {'AREA': []}, {'TIME': 2020}, {'AREA': 'Greece', 'TIME': 2011}]];1
+Lower population today in Europe than Japan in 2000;Agr_Area // [['Country', 'inf', {'AREA': ['Europe']}, {'TIME': 2020}, {'AREA': 'Japan', 'TIME': 2000}]];1
+Places In south America with higher GDP per capita in 1990 than Colombia in 2010;Agr_Area // [['Country', 'sup', {'AREA': ['South America']}, {'TIME': 1990}, {'AREA': 'Colombia', 'TIME': 2010}]];1
+Years between 1950 and 2000 with higher Spanish GDP than today;Agr_Time // [['Time', 'sup', {'AREA': 'Spain', 'TIME': [1950, 2000]}, {}, {'TIME': 2020}]];1
+Times when China had more tourism than today;Agr_Time // [['Time', 'sup', {'AREA': 'China', 'TIME': None}, {}, {'TIME': 2020}]];1
+France higher mortality on road than 2005;Value // [];0
+Who has less population today than in 1990;Agr_Area // [['Two', 'inf', {'AREA': []}, {'TIME': 2020}, {'TIME': 1990}]];1
+Which countries has a higher inflation than USA ?;Agr_Area // [['Country', 'sup', {'AREA': []}, {}, {'AREA': 'United States of America'}]];1
+Number of countries with debt higher than 100% of the gdp;Agr_Area // [['Threshold', 'sup', {'AREA': []}, {}, {'THRESHOLD': 100.0}]];1
+How many countries with falling GDP in 2020;Agr_Area // [];0
+How many countries have a life expectancy above 80;Agr_Area // [['Threshold', 'sup', {'AREA': []}, {}, {'THRESHOLD': 80.0}]];1
+When did France have more than 40 M tourists ?;Agr_Time // [['Threshold', 'sup', {'AREA': 'France', 'TIME': None}, {}, {'THRESHOLD': 40000000.0}]];1
+Where is there more man dying on the road than female ?;Agr_Area // [['Two', 'sup', {'AREA': []}, {}, {}]];1
+When did China emit more CO2 than USA ?;Agr_Time // [['Two', 'sup', {'TIME': None}, {'AREA': 'China'}, {'AREA': 'United States of America'}]];1
+Countries polluting more than Germany;Agr_Area // [['Country', 'sup', {'AREA': []}, {}, {'AREA': 'Germany'}]];1
+Less pollution than Denmark;Agr_Area // [['Country', 'inf', {'AREA': []}, {}, {'AREA': 'Denmark'}]];1
+When was the Germany army bigger than France ?;Agr_Time // [['Two', 'sup', {'TIME': None}, {'AREA': 'Germany'}, {'AREA': 'France'}]];1
+Best armies above 1 M soldiers;Agr_Area // [['Threshold', 'sup', {'AREA': []}, {}, {'THRESHOLD': 1000000.0}]];1
+Countries with more male population than female;Agr_Area // [['Two', 'sup', {'AREA': []}, {}, {}]];1
+Number of places with more than 10 M inhabitants but less than 30 M;Agr_Area // [['Threshold', 'sup', {'AREA': []}, {}, {'THRESHOLD': 10000000.0}], ['Threshold', 'inf', {'AREA': []}, {}, {'THRESHOLD': 30000000.0}]];1
+Countries in Europe with GDP higher than Spain but lower than Germany;Agr_Area // [['Country', 'sup', {'AREA': ['Europe']}, {}, {'AREA': 'Spain'}], ['Country', 'inf', {'AREA': []}, {}, {'AREA': 'Germany'}]];1
+Years deadlier for France than 1950 but less than 2000;Agr_Time // [['Time', 'sup', {'AREA': 'France', 'TIME': None}, {}, {'TIME': 1950}], ['Time', 'inf', {'AREA': None, 'TIME': None}, {}, {'TIME': 2000}]];1
+Times when the Peruvian population was above 5 M but below 20M;Agr_Time // [['Threshold', 'sup', {'TIME': None, 'AREA': 'Peru'}, {}, {'THRESHOLD': 5000000.0}], ['Threshold', 'inf', {'TIME': None, 'AREA': None}, {}, {'THRESHOLD': 20000000.0}]];1
+Who has more trade activity with China than with Europe ?;Agr_Area // [];0
+Countries more touristic than Belgium but with less than 50 M tourists;Agr_Area // [['Country', 'sup', {'AREA': []}, {}, {'AREA': 'Belgium'}], ['Threshold', 'inf', {'AREA': []}, {}, {'THRESHOLD': 50000000.0}]];1
+What nations have a better GDP per capita than Switzerland ?;Agr_Area // [['Country', 'sup', {'AREA': []}, {}, {'AREA': 'Switzerland'}]];1
+Population higher than Argentina but less than UK;Agr_Area // [['Country', 'sup', {'AREA': []}, {}, {'AREA': 'Argentina'}], ['Country', 'inf', {'AREA': []}, {}, {'AREA': 'United Kingdom'}]];1
+Years during which the oil price was over 100 $ per barrel;Agr_Time // [['Threshold', 'sup', {'TIME': None, 'AREA': None}, {}, {'THRESHOLD': 100.0}]];1

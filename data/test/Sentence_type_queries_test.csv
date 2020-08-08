@@ -1,0 +1,101 @@
+﻿Query;Type;Returned;Comp;Sup
+What is the population of Australia ?;WH;Value;0;0
+What is the population of Belgium in 2010 ?;WH;Value;0;0
+How many Americans ?;WH;Value;0;0
+How populated is India ?;WH;Value;0;0
+How many people in Syria ?;WH;Value;0;0
+How many immigrants in Canada since 2000 ?;WH;Value;0;0
+How many foreigners in Denmark ?;WH;Value;0;0
+How is the immigration in Spain ?;WH;Value;0;0
+How many non French live in France ?;WH;Value;0;0
+Immigration in Europe;NP;Value;0;0
+How many poors in USA in 2014 ?;WH;Value;0;0
+How many person considered poor in Germany ?;WH;Value;0;0
+How many poors in the world ?;WH;Value;0;0
+Poverty rate in Asia evolution;NP;Value;0;0
+Poverty figures in the UK;NP;Value;0;0
+Unemployement in Netherlands;NP;Value;0;0
+How many people without a job because of coronavirus ?;WH;Value;0;0
+Unemployement rate Europe since economic crisis;NP;Value;0;0
+Labor force in China;NP;Value;0;0
+Number of people with multiple jobs USA;NP;Value;0;0
+Employment evolution in South America;NP;Value;0;0
+How many job losses due to crisis ?;WH;Value;0;0
+Lowest unemployement rate since 50 years;NP;Agr_Time;0;1
+5 countries with highest unemployement in the world;NP;Agr_Area;0;1
+When did France have its highest unemployement ?;WH;Agr_Time;0;1
+How much cost per kilowatt-hour ?;WH;Value;0;0
+Prices of the kw in the world;NP;Value;0;0
+Electricity price Germany;NP;Value;0;0
+Lowest energy price in the world;NP;Agr_Area;0;1
+Evolution of the electricity cost;NP;Value;0;0
+What is the minimum wage in Canada ?;WH;Value;0;0
+Which countries have a minimum wage ?;WH;Agr_Area;0;0
+Highest minimum wages in the world;NP;Agr_Area;0;1
+Countries with minimum salary below 10k dollars;NP;Agr_Area;1;0
+How many is the minimum wage in Japan ?;WH;Value;0;0
+Highest inflation rate in the world;NP;Agr_Area;0;1
+When was the lowest inflation in Italy ?;WH;Agr_Time;0;1
+Countries with a negative inflation;NP;Agr_Area;1;0
+Which countries has a higher inflation than USA ?;WH;Agr_Area;1;0
+Evolution of the inflation in Poland since WW2;NP;Value;0;0
+Countries by most public debt;NP;Agr_Area;0;1
+Number of countries with debt higher than 100% of the gdp;NP;Agr_Area;1;0
+Public debt of Germany;NP;Value;0;0
+What is the debt of Poland ?;WH;Value;0;0
+Most indebted countries in the world;NP;Agr_Area;0;1
+GDP growth China in 2018;NP;Value;0;0
+French GDP growth over the 5 last years;NP;Value;0;0
+Countries with falling GDP in 2020;NP;Agr_Area;1;0
+Highest GDP growth in the UK since the world war;NP;Agr_Time;0;1
+India GDP evolution;NP;Value;0;0
+GDP per capita in Luxembourg;NP;Value;0;0
+Who has the highest GDP in the world ?;WH;Agr_Area;0;1
+Best GDP per capita in the world;NP;Agr_Area;0;1
+When did the UK have the best GDP per capita ?;WH;Agr_Time;0;1
+What is the lowest GDP per capita ?;WH;Agr_Area;0;1
+Who live the longest on earth ?;WH;Agr_Area;0;1
+Top 5 countries with highest life expectancy;NP;Agr_Area;0;1
+Countries with life expectancy above 80;NP;Agr_Area;1;0
+GDP per capita for the best countries in terms of life expectancy;NP;Agr_Area;0;1
+How long does an European live in average ?;WH;Value;0;0
+Average salary in Brazil;NP;Value;0;0
+What are the 20 countries with the biggest median salary ?;WH;Agr_Area;0;1
+What years did India have the highest salary ? ;WH;Agr_Time;0;1
+How many does the average american make ?;WH;Value;0;0
+What is the average income in Russia ?;WH;Value;0;0
+Percentage of persons with a PhD in Switzerland;NP;Value;0;0
+Number of students in Croatia;NP;Value;0;0
+How many tech students in the UK ?;WH;Value;0;0
+Number of Master students in Germany in 2017;NP;Value;0;0
+Undergraduates in the US;NP;Value;0;0
+How many cereals does France produce each year ?;WH;Value;0;0
+Best agricultural yield in the world ;NP;Agr_Area;0;1
+How many hectares cultivated in India ?;WH;Value;0;0
+What does Spain produce the most ?;WH;Value;0;0
+Country with most agriculture;NP;Agr_Area;0;1
+Percentage of energy produced by solar power in Japan;NP;Value;0;0
+Country with most important wind power in the world;NP;Agr_Area;0;1
+Electricity price by nuclear power in the world;NP;Value;0;0
+Favorite substainable energy in Europe;NP;Value;0;0
+What are the countries still using coal as source of electricity in 2020 ?;WH;Agr_Area;1;0
+When was there the most tourists from Germany to Australia ?;WH;Agr_Time;0;1
+What were the best years for Brazil in term of tourism ?;WH;Agr_Time;0;1
+What are the most visited countries in the world ?;WH;Agr_Area;0;1
+Which countries are the worst touristic destinations ?;WH;Agr_Area;0;1
+When did France have more than 40 M tourists ?;WH;Agr_Time;1;0
+What year was the deadliest in term of disease in Africa ?;WH;Agr_Time;0;1
+Which years were the best in term of mortality on the road in the UK ?;WH;Agr_Time;0;1
+What country have the most people dying from obesity ?;WH;Agr_Area;0;1
+Where is there more man dying on the road than female ?;WH;Agr_Area;1;0
+Highest mortality rate before 40 years in the world;NP;Agr_Area;0;1
+Biggest CO2 emitters in the world;NP;Agr_Area;0;1
+When did China emit more CO2 than USA ?;WH;Agr_Time;1;0
+Countries polluting more than Germany;NP;Agr_Area;1;0
+What is the worst year for pollution in India ?;WH;Agr_Time;0;1
+Less pollution than Denmark;NP;Agr_Area;1;0
+When was the Germany army bigger than France ?;WH;Agr_Time;1;0
+Years with lowest defence investment in Europe;NP;Agr_Time;0;1
+What countries have the biggest armies ?;WH;Agr_Area;0;1
+Who has more soldiers than Israël ?;WH;Agr_Area;1;0
+Best armies above 1 M soldiers;NP;Agr_Area;1;1

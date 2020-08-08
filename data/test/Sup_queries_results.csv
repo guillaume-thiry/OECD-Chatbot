@@ -1,0 +1,31 @@
+Query,Sens,Value,Correct sens,Correct value
+5 countries with highest unemployement in the world,sup,5,1.0,1.0
+When did France have its lowest unemployement ?,inf,1,1.0,1.0
+Highest minimum wages in the world,sup,10,0.0,0.0
+Highest inflation rate in the world,sup,1,1.0,1.0
+When was the lowest inflation in Italy ?,inf,1,1.0,1.0
+Countries by most public debt,sup,10,1.0,1.0
+Most indebted countries in the world,sup,10,1.0,1.0
+Highest GDP growth in the UK since the world war,sup,1,1.0,1.0
+Who has the lowest GDP in the world ?,inf,1,1.0,1.0
+20 best GDP per capita in the world,sup,20,1.0,1.0
+What is the lowest GDP per capita ?,inf,1,1.0,1.0
+Top 5 countries with highest life expectancy,sup,5,1.0,1.0
+GDP per capita for the 8 best countries in terms of life expectancy,sup,8,1.0,1.0
+What are the 20 countries with the biggest median salary ?,sup,20,1.0,1.0
+What years did India have the lowest salary ? ,inf,10,1.0,1.0
+Best agricultural yield in the world ,sup,1,1.0,1.0
+7 countries with least  important wind power in the world,inf,7,1.0,1.0
+When was there the least tourists from Germany to Australia ?,inf,1,1.0,1.0
+What were the worst years for Brazil in term of tourism ?,inf,10,1.0,1.0
+What are the 12 most visited countries in the world ?,sup,12,1.0,1.0
+Which years were the best in term of mortality on the road in the UK ?,sup,10,1.0,1.0
+What country have the most people dying from obesity ?,sup,1,1.0,1.0
+3 countries with minimum debt,inf,3,1.0,1.0
+Biggest CO2 emitters in the world,sup,10,1.0,0.0
+What is the worst year for pollution in India ?,inf,1,1.0,1.0
+Years with lowest defence investment in Europe,inf,10,1.0,1.0
+What countries have the biggest armies ?,sup,10,1.0,1.0
+Best armies in the world,sup,10,1.0,0.0
+Countries with best data policy in 2019,sup,10,1.0,1.0
+Lowest disease mortality in China between 1910 and 2010,inf,1,1.0,1.0

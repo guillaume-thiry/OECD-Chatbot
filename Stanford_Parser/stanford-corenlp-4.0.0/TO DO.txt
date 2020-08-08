@@ -1,0 +1,5 @@
+This folder must contain the file of the Stanford CoreNLP Parser (version 4.0.0) with the English model
+
+Download : https://nlp.stanford.edu/software/stanford-parser-4.0.0.zip
+English model : https://nlp.stanford.edu/software/stanford-corenlp-4.0.0-models-english.jar
+Source & Documentation : https://nlp.stanford.edu/software/lex-parser.shtml
