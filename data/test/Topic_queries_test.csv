@@ -1,39 +1,39 @@
 ﻿Query;Table;Category
 How many people travel within France ?;Domestic Tourism;IND
 Inside tourism in Belgium;Domestic Tourism;IND
-Can I have the numbers of local travelers in the UK ?;Domestic Tourism;IND
+Number of local travelers in the UK ?;Domestic Tourism;IND
 How many Germans visit Austria each year ?;Inbound Tourism;IND
 Tourism in Greece;Inbound Tourism;IND
-Rank the country by number of tourists;Inbound Tourism;IND
+Countries by number of tourists;Inbound Tourism;IND
 How many jobs in tourism in Western Europe ?;Employment Tourism;IND
-Show me countries with most employees in tourism;Employment Tourism;IND
+Which countries have the most employees in tourism;Employment Tourism;IND
 Impact of tourism on employement in South America;Employment Tourism;IND
 What was the tourism GDP of Spain in 2010 ?;Tourism indicators;IND
 Most touristic areas in the world;Tourism indicators;IND
-Tell me the economic share of tourism in Argentina;Tourism indicators;IND
+What is the economic share of tourism in Argentina ?;Tourism indicators;IND
 What is the UK score in data availability ?;Open Gov data;GOV
 Best data nations;Open Gov data;GOV
-Can you show me the countries with worst data policies;Open Gov data;GOV
+Countries with worst data policies;Open Gov data;GOV
 What is the most indebted country ?;Public finance and economics;GOV
-Is France the country with most tax ?;Public finance and economics;GOV
+Country with most tax ?;Public finance and economics;GOV
 Countries with highest tax revenues;Public finance and economics;GOV
 Countries with most budget in health;Gov expenditures;GOV
-Show me the transport budget of Netherlands;Gov expenditures;GOV
+What is the transport budget of Netherlands ?;Gov expenditures;GOV
 What is the Danish government spendings in education;Gov expenditures;GOV
 Defence investment in the USA;Gov investments;GOV
-Is Germany investing a lot in research ?;Gov investments;GOV
+How many does Germany invest in research ?;Gov investments;GOV
 How many does Japan invest in technology ?;Gov investments;GOV
 How many persons studying after 25 years old ?;Enrolment age;EDU
-Tell me the countries with oldest students;Enrolment age;EDU
+Countries with oldest students;Enrolment age;EDU
 Minimum age to go to school in Norway;Enrolment age;EDU
 Number of female with a PhD in Sweden;Enrolment gender;EDU
-Are there more female than male in graduate studies ?;Enrolment gender;EDU
+Places with more female than male in graduate studies;Enrolment gender;EDU
 Which countries have the most female studing in science ?;Enrolment gender;EDU
 Number of art student in Italy;Enrolment field;EDU
-Compare the journalism education in the world;Enrolment fied;EDU
+How is the journalism education in the world;Enrolment fied;EDU
 How many law students is there in South Korea ?;Enrolment fied;EDU
 What is the percentage of person with a Master in Australia ?;Educational attainment;EDU
-Are many people dropping out of high-school in Canada ?;Educational attainment;EDU
+How many are dropping out of high-school in Canada ?;Educational attainment;EDU
 Doctoral studies in the world;Educational attainment;EDU
 What is the population of Peru ?;None;None
 How large is Russia ?;None;None
@@ -43,7 +43,7 @@ GDP per capita Switzerland;None;None
 Electricity sources Denmark;None;None
 Nuclear power in the world;None;None
 Cultural power of India;None;None
-Show me the incarceration rate in the US;None;None
-Tell me about the trade in Mexico;None;None
-Is there more male or female in China ?;None;None
-Can you display me the evolution of population in Ireland ?;None;None
+What is the incarceration rate in the US ?;None;None
+Trade in Mexico;None;None
+Female population in China;None;None
+How is the evolution of population in Ireland ?;None;None
