@@ -1,3 +1,6 @@
+#  @ Copyright Inria, Ecole Polytechnique
+#  Shared under the MIT license https://opensource.org/licenses/mit-license.php
+
 # This file contains all the functions that are used in the topic finding
 # The final function 'find_topic' is used elsewhere in the chatbot
 # and uses many different other functions to compute the proximity scores and rank them
