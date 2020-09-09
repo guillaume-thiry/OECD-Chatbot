@@ -1,3 +1,6 @@
+#  @ Copyright Inria, Ecole Polytechnique
+#  Shared under the MIT license https://opensource.org/licenses/mit-license.php
+
 # This file contains all the functions that are used to explore the SDMX metadata file
 # These functions (to get the dimensions, the codelists...) are used elsewhere in the code when we want to interact with metadata
 # (for find_topic and dimension_fill)
