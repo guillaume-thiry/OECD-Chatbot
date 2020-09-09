@@ -1,3 +1,6 @@
+#  @ Copyright Inria, Ecole Polytechnique
+#  Shared under the MIT license https://opensource.org/licenses/mit-license.php
+
 ### This is the main file of the Chatbot
 
 # It contains a function 'analyse' that reproduce the pipeline of the algorithm to treat a given query
