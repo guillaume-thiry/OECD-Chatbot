@@ -1,3 +1,6 @@
+#  @ Copyright Inria, Ecole Polytechnique
+#  Shared under the MIT license https://opensource.org/licenses/mit-license.php
+
 # This file contains the functions used to create the metadata dictionaries for the SDMX tables supported
 # A topic dictionnary contains all the information to compute the topic proximity score between a query and each table
 # A dimension dictionnary contains the information to fill the dimensions of the table with the query
