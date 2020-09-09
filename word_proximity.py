@@ -1,3 +1,6 @@
+#  @ Copyright Inria, Ecole Polytechnique
+#  Shared under the MIT license https://opensource.org/licenses/mit-license.php
+
 # This files contains all the functions that are used to compute a proximity score between two words
 # The main function, proximity(w,w2), is used elsewhere in the code for topic finding and dimension filling
 
