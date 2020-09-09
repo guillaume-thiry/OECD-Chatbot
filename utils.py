@@ -1,3 +1,6 @@
+#  @ Copyright Inria, Ecole Polytechnique
+#  Shared under the MIT license https://opensource.org/licenses/mit-license.php
+
 # This file contains several small functions that are used many times in the code of the chatbot
 # It also contains some dictionaries (the ones that are not stored as independent file), easily updatable
 
