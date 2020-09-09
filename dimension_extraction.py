@@ -1,3 +1,6 @@
+#  @ Copyright Inria, Ecole Polytechnique
+#  Shared under the MIT license https://opensource.org/licenses/mit-license.php
+
 # This file contains all the functions that are used in the dimension filling
 # The main part of the code is the function dimension_fill, that will be used elsewhere in the code
 
