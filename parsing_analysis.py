@@ -1,3 +1,6 @@
+#  @ Copyright Inria, Ecole Polytechnique
+#  Shared under the MIT license https://opensource.org/licenses/mit-license.php
+
 #This files contains all the utils functions used to explore the parsing trees
 #In particular, these functions allows us to easily extract information from the grammatical structure tree and the dependency tree
 
