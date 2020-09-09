@@ -1,3 +1,6 @@
+#  @ Copyright Inria, Ecole Polytechnique
+#  Shared under the MIT license https://opensource.org/licenses/mit-license.php
+
 ### This is the demonstration file for the Chatbot
 
 # Here we can easily give a request to the chatbot and have the answer (queried via the Web Service)
