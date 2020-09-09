@@ -1,3 +1,6 @@
+#  @ Copyright Inria, Ecole Polytechnique
+#  Shared under the MIT license https://opensource.org/licenses/mit-license.php
+
 # This file contains all the functions that are used in the comparison/aggregation detection
 # The main part of the code is the function find_aggregators, that will be used elsewhere in the code
 # The other functions are auxiliary that are being used in the main one
