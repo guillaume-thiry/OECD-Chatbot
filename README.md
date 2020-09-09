@@ -1,3 +1,6 @@
+@ Copyright Inria, Ecole Polytechnique
+Shared under the MIT license https://opensource.org/licenses/mit-license.php
+
 # OECD-Chatbot
 A Chatbot For Interacting with SDMX Databases
 
